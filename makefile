@@ -1,6 +1,6 @@
 # Used by `image`, `push` & `deploy` targets, override as required
 IMAGE_REG ?= docker.io
-IMAGE_REPO ?= vijikalavarkar/webby-application1
+IMAGE_REPO ?= vijikalavarkar/my-web-app
 IMAGE_TAG ?= v1
 
 # Used by `deploy` target, sets Azure webap defaults, override as required
